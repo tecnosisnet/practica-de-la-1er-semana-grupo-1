@@ -1,4 +1,4 @@
-# PracticaSemana1
+# PracticaSemana 1
 Repositorio de practica de la primer semana de la materia Sensores y Actuadores
 
 ![image](https://user-images.githubusercontent.com/84986194/188350512-fd45d679-2f56-4769-9a6d-84e195238634.png)
